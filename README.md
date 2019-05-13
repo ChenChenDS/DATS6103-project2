@@ -1,4 +1,26 @@
 # DATS6103-project2
 This is a data mining project. I use the world immigration data from United Nations to do the analyse. An overview is given at the first glance. And further detailed analysis for the top immigrant countries and the component is given. The comparison of the immigration and refugee is also discussed. Regarding to the mining result, I give some summary to the facts why people choose to move and why countries accept immigrate and refugee. 
 
-I generate a local html to do the presentation. when see the html remember to keep all the graph in the same folder with the html file. 
+### Language
+python
+#### packages
+ pandas<br> 
+ numpy<br>
+ plotly<br>
+ plotly_express<br>
+
+### Files
+ Excel<br>
+ ipynb<br>
+ html<br>
+
+### Visualization link: 
+https://chenchends.github.io/Tourism-data-analysis/
+
+### Instruction
+<li>Put the excel and python code in the same folder</li>
+<li>Need plotly account to run the code</li>
+<li>Recommend use google chrome</li>
+
+### Author: Chen Chen
+ 
