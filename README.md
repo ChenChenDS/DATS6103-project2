@@ -8,6 +8,11 @@ python
  numpy<br>
  plotly<br>
  plotly_express<br>
+ matplotlib.pyplot<br>
+ country_converter<br>
+ import plotly<br>
+ numpy.polynomial.polynomial<br>
+ math<br>
 
 ### Files
  Excel<br>
