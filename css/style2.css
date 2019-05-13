@@ -64,6 +64,15 @@ article {
   margin-top: 0px;
 }
 
+#myDIV4 {
+  display:none;
+  width: 100%;
+  padding: 20px;
+  text-align: left;
+  background-color: white;
+  margin-top: 0px;
+}
+
 .center {
   display: block;
   margin-left: auto;
